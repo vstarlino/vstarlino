@@ -1,19 +1,18 @@
 
-![author](https://img.shields.io/badge/author-Vinicius%20Starlino-red.svg)
+![author](https://img.shields.io/badge/author-Vinicius%20Starlino-red.svg)  
+<img src="https://komarev.com/ghpvc/?username=vstarlino" alt="vstarlino" />  
 
 ## Sobre:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vstarlino)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-314D63?style=flat&logo=Portfolio&logoColor)](https://vstarlino.github.io/portfolio/)  
-  
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-314D63?style=flat&logo=Portfolio&logoColor)](https://vstarlino.github.io/portfolio/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@vstarlino)
-[![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://bit.ly/vstarlino-tableauproj)  
-  
+[![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://bit.ly/vstarlino-tableauproj)    
 
  ## Linguagens, Ferramentas e Uso
  
 <b> Uso Frequentemente:</br>  
- 
+   
  ![R](https://img.shields.io/badge/-R-75AADB?style=flat&logo=R)
  ![Visual Studio](https://img.shields.io/badge/-VisualStudio-1F86CA?style=flat&logo=VisualStudio)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=Jupyter)
@@ -22,8 +21,8 @@
 <b> Conhecimentos Básicos:</br>   
  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)  
-   
- <br>    
+  
+ <br> 
   
 <b> Estatísticas de Uso:</b>
 
