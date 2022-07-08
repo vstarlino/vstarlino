@@ -14,9 +14,10 @@
 <b> Uso Frequentemente:</br>  
    
  ![R](https://img.shields.io/badge/-R-75AADB?style=flat&logo=R)
- ![Visual Studio](https://img.shields.io/badge/-VisualStudio-1F86CA?style=flat&logo=VisualStudio)
+ ![Visual Studio](https://img.shields.io/badge/-VisualStudio-1F86CA?style=flat&logo=Visual-Studio)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=Jupyter)
- ![Github](https://img.shields.io/badge/-Github-purple?style=flat&logo=Github)
+ ![Github](https://img.shields.io/badge/-Github-purple?style=flat&logo=Github)  
+![Azure](https://img.shields.io/badge/AzureML-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
  
 <b> Conhecimentos Básicos:</br>   
  
